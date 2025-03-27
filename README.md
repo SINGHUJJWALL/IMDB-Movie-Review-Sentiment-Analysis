@@ -21,7 +21,7 @@ This project aims to perform sentiment analysis on IMDb movie reviews using Natu
 1. Clone the repository:  
 
    ```bash
-   git clone https://github.com/your-username/IMDB-Sentiment-Analysis.git
+   git clone https://github.com/SINGHUJJWALLL/IMDB-Sentiment-Analysis.git
    cd IMDB-Sentiment-Analysis
 Install dependencies:
 
@@ -69,10 +69,6 @@ GitHub: (https://github.com/SINGHUJJWALL)
 📜 License
 This project is licensed under the MIT License.
 
-yaml
-Copy
-Edit
+## 📜 License  
 
----
-
-Replace `"Ujjwal Kumar Singh"` and `"https://github.com/SINGHUJJWALL"` with your actual details. If you need any modifications, let me know! 🚀
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.  
